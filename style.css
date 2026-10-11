@@ -1,0 +1,17 @@
+body{
+    font-family:'Arial';
+    margin:40px;
+}
+input{
+    padding:10px;
+}
+button{
+    padding:10px 15px;
+    background:purple;
+    colur:while;
+    border:none;
+    cursor:pointer;
+}
+li{
+    margin-top:10px;
+}
